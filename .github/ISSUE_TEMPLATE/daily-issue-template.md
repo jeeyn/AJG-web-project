@@ -1,7 +1,7 @@
 ---
 name: Daily issue template
 about: Daily Report
-title: "[DAILY REPORT] DAY "
+title: "[일일 보고서] DAY "
 labels: daily
 assignees: ''
 

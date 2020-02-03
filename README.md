@@ -2,4 +2,4 @@
 
 * [기존 안중근의사기념사업회 웹페이지](http://www.greatkorean.org/)
 
-* [공유 구글 드라이브](https://drive.google.com/open?id=19lZi1LwSoXjU3UZFtvT3-7QPLE1hFvXw)
+* [구글 드라이브 공유 폴더](https://drive.google.com/open?id=19lZi1LwSoXjU3UZFtvT3-7QPLE1hFvXw)

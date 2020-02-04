@@ -1,7 +1,7 @@
 ---
 name: Daily issue template
 about: Daily Report
-title: "[일일 보고서] 00월 00일 요일 : DAY "
+title: "[일일 보고서] 02월 00일 요일 : DAY "
 labels: daily
 assignees: ''
 
@@ -9,7 +9,7 @@ assignees: ''
 
 ## DAILY REPORT :clock4:
 
-* 날짜 : 2020년 01월 00일 요일
+* 날짜 : 2020년 02월 00일 요일
 * 장소 : 안중근의사 기념사업회 회의실
 * 시간 : 10:00 ~ 19:00
 

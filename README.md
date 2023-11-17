@@ -1,4 +1,4 @@
-# AJGWebProject :computer:
+# AJG Web Project :computer:
 안중근의사 기념사업회 웹사이트 리뉴얼
   
 * [기존 안중근의사기념사업회 웹페이지](http://www.greatkorean.org/)
